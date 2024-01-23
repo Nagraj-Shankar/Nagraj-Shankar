@@ -1,12 +1,12 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)]
 <h1 align="center">Hi 👋, I'm Nagraj Shankar</h1>
-<h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Python, Java, C, JS, Html, CSS, Bootstrap, Express.JS, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
+<h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Java, JavaScript, Html, CSS, Bootstrap, Express.JS, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 - 🌱 I’m currently learning **React.JS and DSA**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **nagrajshankar01@gmail.com**
 
