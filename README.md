@@ -1,8 +1,8 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)]
+![logo](https://github.com/Nagraj-Shankar/Nagraj-Shankar/blob/main/header.png)
 <h1 align="center">Hi 👋, I'm Nagraj Shankar</h1>
 <h3 align="center">Aspiring Software developer | Seeking for Internships | Experience in Java, JavaScript, Html, CSS, Bootstrap, Express.JS, MongoDB & MYSQL | Currently improving my DSA skillset</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **React.JS and DSA**
 
